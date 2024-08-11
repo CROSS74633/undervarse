@@ -1,3 +1,4 @@
+@charset "utf-8";
 
 * {
     margin: 0;
@@ -19,7 +20,7 @@ header {
 }
 
 header h1 {
-    color: #df30c2;
+    color: #c230df;
     margin-bottom: 20px;
 }
 
@@ -42,7 +43,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #df30c2;
+    color: #c830df;
 }
 
 main {
@@ -55,7 +56,7 @@ main {
 }
 
 .intro h2 {
-    color: #df30c2;
+    color: #bc30df;
     margin-bottom: 10px;
 }
 
@@ -88,7 +89,7 @@ main {
 }
 
 .console-item h3 {
-    color: #df30c2;
+    color: #bf30df;
     font-size: 1.2rem;
 }
 
